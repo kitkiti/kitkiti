@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kitkiti
-- 👀 I’m interested in competitve programming with C++ and Kaggle projects with Python
+- 👀 Goal is to be able to do competitive programming with C++ and Kaggle projects with Python
 - 🌱 I’m currently learning Python
 
 <!---
