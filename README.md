@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kitkiti
-- 👀 Goal is to be able to do competitive programming with C++ and Kaggle projects with Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m kitkiti
+- 👀 Goal is to learn and apply as many algorithms as possible, mostly in Python, sometimes in C++
+- 🌱 Currently venturing into Bioinformatics & LLMs
 
 <!---
 kitkiti/kitkiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
