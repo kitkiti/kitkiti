@@ -55,7 +55,7 @@ arXiv: https://arxiv.org/abs/2601.10566
 
 ### 📫 Connect With Me
 
-- GitHub: [kitkiti](https://github.com/kitkiti)
+- X/Twitter: [kitkiti](https://x.com/kitkiti)
 - LinkedIn: [tasfia-zaman-adrita](https://linkedin.com/in/tasfia-zaman-adrita)
 
 <!---
