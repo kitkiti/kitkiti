@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm kitkiti 👋</h1>
 
 <p align="center">
-CSE Graduate | AI Research Enthusiast | Mechanistic Interpretability
+CSE Graduate | LLMs | Mechanistic Interpretability | Knowledge Editing
 </p>
 
 ---
