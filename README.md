@@ -15,8 +15,7 @@ My current research interests include:
 2. Interpretable representation geometry and controllability in transformers  
 
 My undergraduate thesis:
-**Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure**  
-arXiv: https://arxiv.org/abs/2601.10566
+[**Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure**](https://arxiv.org/abs/2601.10566)
 
 ---
 
