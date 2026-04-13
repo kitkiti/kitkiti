@@ -1,6 +1,14 @@
+<h1 align="center">Hi, I'm kitkiti 👋</h1>
+
+<p align="center">
+CSE Graduate | AI Research Enthusiast | Mechanistic Interpretability
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
-I am Tasfia Zaman, a CSE graduate from [**BRAC University**](https://cse.sds.bracu.ac.bd/undergraduate/program) with a strong interest in understanding how large language models work internally.
+My name is Tasfia Zaman, I am a CSE graduate from [**BRAC University**](https://cse.sds.bracu.ac.bd/undergraduate/program) with a strong interest in understanding how large language models work internally. My work focuses on **interpreting, editing, and controlling large language models (LLMs)**.
 
 My current research interests include:
 1. Knowledge editing in LLMs via associative memory-inspired modifications  
