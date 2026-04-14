@@ -60,11 +60,6 @@ My undergraduate thesis:
 
 ---
 
-### 📫 Connect With Me
-
-- X/Twitter: [kitkiti](https://x.com/kitkiti)
-- LinkedIn: [tasfia-zaman-adrita](https://linkedin.com/in/tasfia-zaman-adrita)
-
 <!---
 kitkiti/kitkiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
