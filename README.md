@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm kitkiti 🐈‍⬛</h1>
+<h1 align="center">Hi, I'm kitkiti </h1>
 
 <p align="center">
 CSE Graduate | LLMs | Mechanistic Interpretability | Knowledge Editing
